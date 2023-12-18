@@ -54,4 +54,3 @@ Pengguna dapat menghapus catatan dari daftar produk, pelanggan, dan pemasok.
 - Saat membuat pesanan penjualan, jumlah produk akan dikurangkan dari inventaris yang ada.
 - Saat membuat pesanan pembelian, jumlah produk akan ditambahkan ke inventaris.
 
-Pastikan untuk memahami cara kerja sistem ini dan mengikuti langkah-langkah dengan cermat untuk menjaga integritas data dan keamanan login. Selamat menggunakan *Inventory and Sales Management Website*!
