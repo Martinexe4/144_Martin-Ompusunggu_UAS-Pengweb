@@ -20,5 +20,5 @@
 	<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 	<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css'>
 	<title>Inventory and Sales Management</title>
-	<link rel="icon" type="image/x-icon" href="../img/insal.jpg">
+	<link rel="icon" type="image/x-icon" href="../img/insal.png">
 </head>
